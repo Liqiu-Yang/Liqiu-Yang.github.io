@@ -3,8 +3,8 @@ title: "CyberMAGICS workshop"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-summer-tutorial-1
-venue: "University 1, Department"
-date: 2023-7
+venue: "University of Southern California"
+date: 2023-07-01
 location: "LA, USA"
 ---
 
