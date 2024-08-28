@@ -3,7 +3,7 @@ title: "PEDOT: PSS-Assisted Exfoliation and Functionalization of 2D Nanosheets f
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is collaborated with Xing Wang.'
+# excerpt: 'This paper is collaborated with Xing Wang.'
 date: 2017-10-01  #Exact Date forgot, but year is accurate
 venue: 'Advanced Functional Materials 2017, 27 (32), 1701622'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
