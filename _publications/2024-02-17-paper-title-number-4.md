@@ -6,7 +6,7 @@ permalink: /publication/2024-02-17-paper-title-number-4
 excerpt:   # 'This paper is about fixing template issue #693.'
 date: 2023-01-01
 venue: 'ISC High Performance 2023'
-paperurl: 'https://github.com/Liqiu-Yang/Liqiu-Yang.github.io/files/2023-Ibayashi-Allegro-Legato-via-Sharpness-Aware-Minimization.pdf'    #  'http://Liqiu-Yang.github.io/files/2023-Ibayashi-Allegro-Legato-via-Sharpness-Aware-Minimization.pdf'
+paperurl: /files/2023-Ibayashi-Allegro-Legato-via-Sharpness-Aware-Minimization.pdf   #  'http://Liqiu-Yang.github.io/files/2023-Ibayashi-Allegro-Legato-via-Sharpness-Aware-Minimization.pdf'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
