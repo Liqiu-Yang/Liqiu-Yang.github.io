@@ -1,5 +1,5 @@
 ---
-title: "Allegro-Legato: Scalable, Fast, and Robust Neural Network Quantum Molecular Dynamics via Sharpness-Aware Minimization"
+title: "Allegro-Legato\: Scalable, Fast, and Robust Neural Network Quantum Molecular Dynamics via Sharpness-Aware Minimization"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
