@@ -3,7 +3,7 @@ title: "Allegro-Legato: Scalable, Fast, and Robust Neural-Network Quantum Molecu
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: # 'This paper is about fixing template issue #693.'
+excerpt:   # 'This paper is about fixing template issue #693.'
 date: 2023-01-01
 venue: 'ISC High Performance 2023'
 paperurl: 'https://github.com/Liqiu-Yang/Liqiu-Yang.github.io/files/2023-Ibayashi-Allegro-Legato-via-Sharpness-Aware-Minimization.pdf'    #  'http://Liqiu-Yang.github.io/files/2023-Ibayashi-Allegro-Legato-via-Sharpness-Aware-Minimization.pdf'
