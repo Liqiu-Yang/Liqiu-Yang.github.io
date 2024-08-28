@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2020-spring-teaching-1
 venue: "University of Southern California"
-# date: 2014-01-01
+date: 2020 Sping
 location: "LA, USA"
 ---
 
