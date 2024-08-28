@@ -1,8 +1,8 @@
 ---
-title: "PEDOT: PSS-Assisted Exfoliation and Functionalization of 2D Nanosheets for High-Performance Organic Solar Cells."
+title: "PEDOT:PSS-Assisted Exfoliation and Functionalization of 2D Nanosheets for High-Performance Organic Solar Cells."
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2017-Xing-PEDOTPSS-OSC
 # excerpt: 'This paper is collaborated with Xing Wang.'
 # date: 2017   # -10-01  #Exact Date forgot, but year is accurate
 venue: 'Advanced Functional Materials 2017, 27 (32), 1701622'
