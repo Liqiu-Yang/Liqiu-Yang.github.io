@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-02-17
-venue: 'ISC High Performance 2023'
+venue: 'ISC High Performance 2023'
 paperurl: 'https://liqiu-yang.github.io/files/2023-Ibayashi-ISC.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
