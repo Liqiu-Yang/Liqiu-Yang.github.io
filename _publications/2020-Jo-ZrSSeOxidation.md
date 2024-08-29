@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2020-Jo-ZrSSeOxidation
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
+# date: 2015-10-01
 venue: 'Journal 1'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://liqiu-yang.github.io/files/2020-Jo-ZrSSeOxidation.pdf'
